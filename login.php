@@ -46,7 +46,7 @@ if (isset($_POST['log-btn'])) {
             <div class="col-md-3"></div>
             <div class="col-md-4">
                 <p class="text-center">
-                <img src="http://fametechnologies.in/assests/imgs/fametronix-logo.png" alt="" class="img-fluid mb-3 text-center" style="margin:auto; height:60px"></p><br>
+                <img src="http://testtechnologies.in/assests/imgs/testtronix-logo.png" alt="" class="img-fluid mb-3 text-center" style="margin:auto; height:60px"></p><br>
                 <div class="card card-profile">
                 <div class="card-avatar">
                   <a href="#pablo">

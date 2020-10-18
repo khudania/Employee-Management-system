@@ -3,7 +3,7 @@
         <div class="container-fluid">
           <div class="navbar-wrapper">
             <a class="navbar-brand" href="javascript:void(0)">
-                <img src="http://fametechnologies.in/assests/imgs/fametronix-logo.png" alt="Fametronix Technologies Pvt Ltd" class="img-fluid">
+                <img src="http://testtechnologies.in/assests/imgs/testtronix-logo.png" alt="testtronix Technologies Pvt Ltd" class="img-fluid">
             </a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index"

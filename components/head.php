@@ -8,36 +8,36 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no'
     name='viewport' />
-    <meta name="description" content="It is a Fame Emnployee Portal for Keep track of work and Assigning task and may more">
-    <meta name="keywords" content="Fametronix, Fame Technologies, Fame Employee Portal">
+    <meta name="description" content="It is a test Emnployee Portal for Keep track of work and Assigning task and may more">
+    <meta name="keywords" content="testtronix, test Technologies, test Employee Portal">
     <meta name="author" content="Himanshu Khudania">
-    <meta name="copyright" content="Fametronix Technologies Pvt Ltd.">
+    <meta name="copyright" content="testtronix Technologies Pvt Ltd.">
     <meta name="language" content="en">
     <!-- <meta name="url" content=""> -->
     <meta name="category" content="Work">
     <meta name="coverage" content="India">
     <meta name="rating" content="General">
-    <meta name="og:email" content="info@fametronix.com">
+    <meta name="og:email" content="info@testtronix.com">
     <!-- <meta name="og:phone_number" content=""> -->
     <meta name="og:country-name" content="India">
     <meta name="og:region" content="Chennai, Bangalore, Bengaluru, Kolkata, Calcutta, Mumbai, Delhi, Gurgaon">
-    <meta name="og:site_name" content="Fame Employee Portal">
+    <meta name="og:site_name" content="test Employee Portal">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Fame Employee Portal">
-    <meta property="og:description" content="It is a Fame Emnployee Portal for Keep track of work and Assigning task and may more">
+    <meta property="og:title" content="test Employee Portal">
+    <meta property="og:description" content="It is a test Emnployee Portal for Keep track of work and Assigning task and may more">
     <!-- <meta property="og:url" content=""> -->
-    <meta property="og:site_name" content="Fame Employee Portal">
+    <meta property="og:site_name" content="test Employee Portal">
     <meta name="twitter:card" content="website">
-    <meta name="twitter:site" content="Fame Employee Portal">
-    <meta name="twitter:title" content="Fame Employee Portal">
-    <meta name="twitter:description" content="It is a Fame Emnployee Portal for Keep track of work and Assigning task and may more">
+    <meta name="twitter:site" content="test Employee Portal">
+    <meta name="twitter:title" content="test Employee Portal">
+    <meta name="twitter:description" content="It is a test Emnployee Portal for Keep track of work and Assigning task and may more">
     <!-- <meta name="twitter:creator" content="@akshatvg"> -->
-    <meta itemprop="name" content="Fame Employee Portal">
-    <meta itemprop="description" content="It is a Fame Emnployee Portal for Keep track of work and Assigning task and may more">
+    <meta itemprop="name" content="test Employee Portal">
+    <meta itemprop="description" content="It is a test Emnployee Portal for Keep track of work and Assigning task and may more">
     <!-- <link rel="canonical" href=""> -->
 
 <title>
-Fametronix Employee Work Portal
+testtronix Employee Work Portal
   </title>
 
   <!--     Fonts and icons     -->
